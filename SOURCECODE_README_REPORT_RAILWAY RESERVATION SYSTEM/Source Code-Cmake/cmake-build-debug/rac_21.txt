@@ -1,0 +1,2 @@
+PNR: 2101AXDHB, Name: riathish, Age: 19, Gender: Male, Train: 21, RAC No: 1, From: Chennai, To: Madurai, DOJ: 2024-06-25, Coach: 1, Seat: 67, Cost: 200
+PNR: 2101AXDHB, Name: briju, Age: 23, Gender: Female, Train: 21, RAC No: 2, From: Chennai, To: Madurai, DOJ: 2024-06-25, Coach: 1, Seat: 67, Cost: 200

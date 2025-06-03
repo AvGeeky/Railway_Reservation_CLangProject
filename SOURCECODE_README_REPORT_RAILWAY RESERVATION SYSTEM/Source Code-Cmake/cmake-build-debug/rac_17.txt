@@ -1,0 +1,4 @@
+PNR: 1707YHHZ4, Name: Saipu, Age: 22, Gender: Male, Train: 17, RAC No: 1, From: Chennai, To: Humsafar, DOJ: 2024-06-30, Coach: 7, Seat: 63, Cost: 100
+PNR: 1707YHHZ4, Name: Sahilllonu, Age: 22, Gender: Female, Train: 17, RAC No: 2, From: Chennai, To: Humsafar, DOJ: 2024-06-30, Coach: 7, Seat: 63, Cost: 100
+PNR: 1701KYG92, Name: a, Age: 1, Gender: Male, Train: 17, RAC No: 3, From: Chennai, To: Humsafar, DOJ: 2024-06-30, Coach: 1, Seat: 67, Cost: 50
+PNR: 1701D095N, Name: a, Age: 1, Gender: Male, Train: 17, RAC No: 4, From: Chennai, To: Humsafar, DOJ: 2024-06-30, Coach: 1, Seat: 67, Cost: 50

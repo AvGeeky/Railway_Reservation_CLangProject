@@ -1,0 +1,1 @@
+PNR: 50164XVUR, Name: ira, Age: 19, Gender: Female, Train: 50, RAC No: 1, From: Chennai, To: Mumbai, DOJ: 2024-06-23, Coach: 16, Seat: 56, Cost: 240

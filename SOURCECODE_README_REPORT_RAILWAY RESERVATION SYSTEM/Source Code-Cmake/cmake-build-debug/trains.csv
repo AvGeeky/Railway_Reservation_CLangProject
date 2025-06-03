@@ -1,0 +1,8 @@
+Route,Destination,Date of Journey,Train Name,TrainNumber,AC1,AC2,AC3,Sleeper,Quota
+1Chennai-2Katpadi-3Jolarpet-4Vaniyambadi-5Banglore,Banglore,2024-06-22,BangloreExp-1500,12,16,96,256,864,night
+1Chennai-2Coimbatore-3Palakkad,Palakkad,2024-06-21,PgtExp-1500,13,16,96,256,864,night
+1Chennai-2Coimbatre-3Trissur-4Trivandrum,Trivandrum,2024-11-11,Capitalexp-1200,14,16,96,256,864,night
+1Chennai-2Humsafar,Humsafar,2024-06-30,Saipexp-1500,17,16,96,256,864,night
+1Chennai-2Katpadi-3Salem-4Erode-5Palakkad,Palakkad,2024-06-24,PGTEXP-1200,20,16,96,256,864,night
+1Chennai-2Trichy-3Madurai,Madurai,2024-06-25,MaduExp-1600,21,16,96,256,864,night
+1Chennai-2Banglore-3Mumbai,Mumbai,2024-06-23,MExp-1600,50,16,96,256,864,night

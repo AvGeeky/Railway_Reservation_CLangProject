@@ -1,0 +1,88 @@
+
+From: Chennai
+To: Palakkad
+Date of Journey: 2024-06-24
+Train Number: 20
+Cost: 200
+PNR: 2013025A2
+Coach No: 13
+Passenger 1 Name: Sai
+Passenger 1 Age: 19
+Passenger 1 Gender: Male
+Passenger 1 Seat: 53
+Passenger 2 Name: Rahul
+Passenger 2 Age: 19
+Passenger 2 Gender: Female
+Passenger 2 Seat: 54
+
+From: Chennai
+To: Palakkad
+Date of Journey: 2024-06-24
+Train Number: 20
+Cost: 200
+PNR: 2013VOO5I
+Coach No: 13
+Passenger 1 Name: Earl
+Passenger 1 Age: 20
+Passenger 1 Gender: Female
+Passenger 1 Seat: 53
+Passenger 2 Name: Rahul
+Passenger 2 Age: 19
+Passenger 2 Gender: Female
+Passenger 2 Seat: 55
+
+From: Chennai
+To: Madurai
+Date of Journey: 2024-06-25
+Train Number: 21
+Cost: 120
+PNR: 2116Y0B94
+Coach No: 16
+Passenger 1 Name: Ira
+Passenger 1 Age: 19
+Passenger 1 Gender: Female
+Passenger 1 Seat: 53
+Passenger 2 Name: Ria
+Passenger 2 Age: 19
+Passenger 2 Gender: Female
+Passenger 2 Seat: 54
+Passenger 3 Name: Ria
+Passenger 3 Age: 19
+Passenger 3 Gender: Female
+Passenger 3 Seat: 54
+
+From: Chennai
+To: Mumbai
+Date of Journey: 2024-06-23
+Train Number: 50
+Cost: 60
+PNR: 5016S984T
+Coach No: 16
+Passenger 1 Name: Rahul
+Passenger 1 Age: 19
+Passenger 1 Gender: Male
+Passenger 1 Seat: 53
+
+From: Chennai
+To: Mumbai
+Date of Journey: 2024-06-23
+Train Number: 50
+Cost: 60
+PNR: 50164XVUR
+Coach No: 16
+Passenger 1 Name: Sai
+Passenger 1 Age: 19
+Passenger 1 Gender: Male
+Passenger 1 Seat: 54
+From: Chennai
+To: Mumbai
+Date of Journey: 2024-06-23
+Train Number: 50
+Cost: 100
+PNR: 50019QQKW
+Coach No: 1
+Passenger 1 Name: Saipranav
+Passenger 1 Age: 19
+Passenger 1 Gender: Male
+Passenger 1 Seat: 1
+
